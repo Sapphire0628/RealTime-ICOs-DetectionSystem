@@ -1,0 +1,9 @@
+bs4
+web3
+requests
+mysql-connector-python
+python-dotenv
+rapidfuzz
+python-Levenshtein
+transformers
+openai
