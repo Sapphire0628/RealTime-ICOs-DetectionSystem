@@ -1,4 +1,4 @@
-# RealTime-ICOs-DetectionSystem
+# RealTime-ICOs-DetectionSystem-withLLM
 
 ## Overview
 
@@ -38,7 +38,8 @@ The classifier components include:
 
 - **Real-time Monitoring**: Continuous scraping of new tokens and ICOs
 - **Multi-platform Data Collection**: Aggregates data from blockchain networks, exchanges, and social media
-- **AI-powered Analysis**: Uses machine learning to classify potential scams
+- **LLM-powered Analysis**: Leverages Large Language Models (DeepSeek, GPT, Grok) for advanced pattern recognition and semantic understanding of contract code and social media content
+- **AI-powered Classification**: Uses machine learning to detect potential scam tokens based on multiple features
 - **Database Integration**: Stores and manages collected data for further analysis
 - **Automated Alerts**: Flags suspicious tokens and accounts for review
 
@@ -79,7 +80,17 @@ The classifier components include:
 
 - **Python**: Primary programming language
 - **SQLite**: Database management
-- **Machine Learning**: Classification algorithms for scam detection
+- **Machine Learning & LLMs**: Classification algorithms and Large Language Models for intelligent scam detection
 - **APIs**: Integration with blockchain explorers and social media platforms
 - **Schedule**: Task scheduling for automated operation
+
+## Future Work
+
+The following enhancements are planned for future releases:
+
+1. **Telegram Notification System**: Implement real-time alerts through Telegram to notify users of high-risk or fraudulent tokens immediately upon detection
+2. **Enhanced LLM Integration**: Expand the use of specialized LLMs trained on cryptocurrency-specific data
+3. **Cross-platform Verification**: Implement cross-referencing between social media and blockchain data for more accurate scam detection
+4. **User Dashboard**: Develop a web interface for easy monitoring and configuration
+5. **Historical Analysis**: Add capabilities to analyze historical patterns of known scams to improve detection accuracy
 
