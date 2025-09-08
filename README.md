@@ -4,6 +4,10 @@
 
 The RealTime-ICOs-DetectionSystem is a comprehensive solution for monitoring, scraping, and analyzing cryptocurrency tokens and ICOs (Initial Coin Offerings) in real-time. The system integrates smart contract analysis and social media monitoring to provide timely detection of potential scam tokens and high-risk investments in the cryptocurrency space.
 
+## PPT Link
+
+[View PPT Slide](https://gamma.app/docs/Enhancing-the-Detection-and-Mitigation-of-Scam-Tokens-in-Decentra-k81gsk9gwdzot08?mode=present#card-pmq3fvuhftqux37)
+
 ## System Architecture
 
 The system consists of two main components:
@@ -26,9 +30,12 @@ The scraper components include:
 
 The Classifier Module analyzes the collected data to detect potential scams:
 
-![Smart Contracts Module Workflow](img/Smart_Contracts_Module_diagram_Chart.png)
 
-![Social Media Module Workflow](img/Social_Media_Module_diagram_Chart.png)
+<img src="img/Smart_Contracts_Module_diagram_Chart.png" width="500">
+
+
+<img src="img/Social_Media_Module_diagram_Chart.png" width="500">
+
 
 The classifier components include:
 - **Smart Contracts Classifier**: Analyzes contract code for suspicious patterns
