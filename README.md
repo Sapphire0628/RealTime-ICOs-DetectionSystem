@@ -6,7 +6,7 @@ The RealTime-ICOs-DetectionSystem is a comprehensive solution for monitoring, sc
 
 ## PPT Link
 
-[View PPT Slide](https://gamma.app/docs/Enhancing-the-Detection-and-Mitigation-of-Scam-Tokens-in-Decentra-k81gsk9gwdzot08?mode=present#card-pmq3fvuhftqux37)
+[View PPT Slide](https://gamma.app/docs/Enhancing-the-Detection-and-Mitigation-of-Scam-Tokens-in-Decentra-k81gsk9gwdzot08?mode=present#card-lopak0cegu20ti5)
 
 ## System Architecture
 
